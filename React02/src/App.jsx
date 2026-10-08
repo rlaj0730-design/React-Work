@@ -3,6 +3,7 @@ import Menu from "./components/Menu.jsx"
 import Team from "./components/Team.jsx"
 import Rectangle from "./components/Rectangle.jsx"
 import Goods from "./components/Goods.jsx"
+import Member from "./components/Member.jsx"
 
 function App() {
   // props를 통해 Menu 컴포넌트에 데이터를 전달하기
@@ -11,11 +12,15 @@ function App() {
   return (
     <>
       <h1>App</h1>
+      <Member team="교육운영부" name="박병관"/>
+      <Member team="첨단캠퍼스" name="장영우"/>
+      <Member team="연구개발팀" name="황해도"/>
+      <Member team="간부진" name="차준섭"/>
 
-      <Goods goods="양파" money={5000}/>
+      {/* <Goods goods="양파" money={5000}/>
       <Goods goods="마늘" money={1000}/>
       <Goods goods="치킨" money={20000}/>
-      <Goods goods="자전거" money={150000}/>
+      <Goods goods="자전거" money={150000}/> */}
 
       {/* <Rectangle width="100px" height="100px" backgroundColor="red" />
       <Rectangle width="200px" height="200px" backgroundColor="blue" />
