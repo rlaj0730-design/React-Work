@@ -1,0 +1,25 @@
+{
+    "result" : [
+       {
+            "title" : "노윤서",
+            "birthYear" : 2000,
+            "content" : "대한민국의 배우. 드라마 우리들의 블루스로 데뷔",
+            "imgSrc" : "https://images.khan.co.kr/article/2026/07/14/news-p.v1.20260714.e8d1fdeb6f1244499eb715551e26cd2a_P1.png",
+            "SNS" : "https://www.instagram.com/rohyoonseo/"
+        },
+        {
+            "title" : "수지(Suzy)",
+            "birthYear" : 1994,
+            "content" : "대한민국의 가수 겸 배우. 2010년 JYP데뷔",
+            "imgSrc" : "https://i.namu.wiki/i/qunQGlYdG55QX-9smbXdGSPytl36wWPgo7-dlupbPm5pgzn8A9K70G92neosVwuOY6T3Jt_wQAYiqi7CNr-U7g.webp",
+            "SNS" : "https://www.instagram.com/skuukzky/"
+        },
+        {
+            "title" : "나연(Nayeon)",
+            "birthYear" : 1995,
+            "content" : "대한민국의 가수. JYP엔터테이먼트 소속 9인조 걸그룹 출신",
+            "imgSrc" : "https://i.namu.wiki/i/S7Xiy91rgXqGp_5cBoxDJaLUY6d-oLfOFD9dYpu-Vj0F6K2PoFJqFR-sdVAFmj19s0i1w45qebs3qQyoWFy9wA.webp",
+            "SNS" : "https://www.instagram.com/nayeonyny/"
+        }
+    ]
+}

@@ -1,4 +1,6 @@
 import Ex01 from "./components/Ex01"
+import Ex02 from "./components/Ex02"
+import Ex03 from "./components/Ex03"
 
 
 function App() {
@@ -6,7 +8,9 @@ function App() {
 
   return (
     <>
-      <Ex01/>
+      <Ex03/>
+      {/* <Ex02 /> */}
+      {/* <Ex01/> */}
     </>
   )
 }
