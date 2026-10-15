@@ -32,7 +32,7 @@ const Ex03FunctionComponent = () => {
 
   return (
     <div>
-        {/* 2번 랜더 대체 부분 */}
+        { /* 2번 랜더 대체 부분 */}
         { console.log("2번 : 랜더 호출") }
         Ex03FunctionComponent : {num} 
         <button onClick={handleIncrement}>올리기!</button>
